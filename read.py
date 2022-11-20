@@ -23,7 +23,9 @@ def read_book(file_reader):
 
     ### 1. Initialize necessary variables
     count = 0
+    # ==================== Start your code HERE ======================= #
     stringToBeCount = "harry"
+    # ==================== End your code HERE ========================= #
     stillReading = True
 
     ### 2. Read and count with the loop workflow
